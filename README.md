@@ -4,11 +4,17 @@ ALL ABOUT FRESHLY CLONE .
 Hello reader ,we all buy food like lunch , dinner or snacks from multinational restaurants and food delivery companies . I'm sure you might have also brought using their web-apps . similar to that we have also made a clone of one of online food ordering and delivery platform named freshly.com 
 so moving ahead we the team at MASAI SCHOOL have developed the clone of freshly.com during our construct week as a part of unit 2 project .
 This blog will explain you how we made the project and also about our tasks that had taken up .
+
+
 #Problem statement:
 We are given the task of the successful cloning of a website named freshly in seven days.
 LANDING PAGESIGN UP PAGEPLANS & MENU PAGECART PAGEI hope I am not overwhelming you with so many snippets. The snippets attached above are just some parts of what we have made so that you could compare them with the actual website.
+
+
 #Expectations:
 We are expecting to create a pixel-perfect cloned site of freshly website within seven days, with all its pages, giving proper HTML, CSS properties, using DOM and JAVASCRIPT concepts with respect to the official freshly website.
+
+
 #Concepts we covered in the entire unit:
 HTML
 CSS
