@@ -21,5 +21,5 @@ _Freshly is a New York-based prepared meal delivery company ,Which delivers thro
 
 ### Netlify Link
 
-https://freshly-new.netlify.app/
+https://freshly12.netlify.app/
 
